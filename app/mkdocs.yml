@@ -1,0 +1,11 @@
+site_name: redhat-taro-23
+site_description: 
+repo_url: https://github.com/rhdh-skitamura-org/redhat-taro-23-app
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# Note for content editors, edit only the section below
+nav:
+  - redhat-taro-23 Documentation: index.md
